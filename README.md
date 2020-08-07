@@ -29,6 +29,8 @@
 
 这就像是我给你了一本字典叫你查，但是你却追着我问这个字怎么写、怎么念、是什么意思。
 
+如果您不知道如何提问，推荐阅读：[《提问的智慧》](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)
+
 :::
 
 QQ：[`208791171`](https://jq.qq.com/?_wv=1027&k=aXIUvT35)
