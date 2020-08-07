@@ -33,7 +33,7 @@
 
 :::
 
-QQ：[`208791171`](https://jq.qq.com/?_wv=1027&k=aXIUvT35)
+QQ群：[`208791171`](https://jq.qq.com/?_wv=1027&k=aXIUvT35)
 
 ## 捐助
 爱发电：<https://afdian.net/@Mashirl>  
