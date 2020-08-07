@@ -1,0 +1,23 @@
+{
+  "name": "vdriasworld-manual",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev .",
+    "build": "vuepress build ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vdriasworld/manual.git"
+  },
+  "author": "vdriasworld",
+  "license": "CC-BY-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/vdriasworld/manual/issues"
+  },
+  "homepage": "https://github.com/vdriasworld/manual#readme",
+  "dependencies": {
+    "vuepress": "^1.5.2"
+  }
+}

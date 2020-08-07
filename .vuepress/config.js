@@ -1,0 +1,24 @@
+module.exports = {
+  title: 'Vdrias World! 游玩指南',
+  description: 'Vdrias World! Manual',
+  head: [['link', { rel: 'icon', href: '/favicon.png' }]],
+  serviceWorker: true,
+  markdown: {
+    lineNumbers: true,
+    externalLinks: { target: '_blank' },
+  },
+  themeConfig: {
+    docsRepo: 'vdriasworld/manual',
+    docsBranch: 'master',
+    editLinks: true,
+    editLinkText: '帮助我们完善这个页面',
+    sidebar: [
+      ['/', '欢迎'],
+      ['/get-started','新手上路'],
+      ['/rules', '规则'],
+    ],
+    smoothScroll: true,
+    lastUpdated: '上次更新于',
+  },
+  evergreen: true,
+};
