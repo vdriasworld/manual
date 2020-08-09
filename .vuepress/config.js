@@ -16,6 +16,7 @@ module.exports = {
       ['/', '欢迎'],
       ['/get-started','新手上路'],
       ['/rules', '规则'],
+      [`/command`, `指令`],
       ['/faq', '常见问题'],
     ],
     smoothScroll: true,
