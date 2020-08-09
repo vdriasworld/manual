@@ -18,6 +18,7 @@ module.exports = {
       ['/rules', '规则'],
       [`/command`, `指令`],
       ['/faq', '常见问题'],
+      ['/donate', '捐助'],
     ],
     smoothScroll: true,
     lastUpdated: '上次更新于',
