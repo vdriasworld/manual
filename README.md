@@ -3,7 +3,7 @@
 *Vdrias World!* 是一个 Minecraft Java 版生存服务器 ~
 
 - 游戏版本: `1.16.1`
-- 地址：`play.vdrias.cn`
+- 地址：`play.vdrias.cn`  ![status-icon](https://mcstatus.glavo.site/status-icon?addr=play.vdrias.cn)
 
 [了解如何加入服务器](/get-started#加入)
 
