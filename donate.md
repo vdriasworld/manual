@@ -10,3 +10,9 @@
 + `/nick` 指令的使用权
 
 [点击此处到爱发电捐助我们](https://afdian.net/@Mashirl)
+
+::: tip
+
+请在捐助时留言你的游戏ID，便于Rank发放。
+
+:::
