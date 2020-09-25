@@ -9,7 +9,7 @@
 
 ::: warning
 
-原服主 Mashirl 因个人原因无法继续运营本服，现已交由 Xiao_Jin 运营，Mashirl 将依然担任 Admin。
+原服主 Mashirl 因个人原因无法继续运营本服，现已交由 Xiao_Jin 运营，原服主Mashirl将继续担任Admin。
 
 预计会在10.1重新开服，详情可加入[QQ交流群](#交流群)了解更多
 
