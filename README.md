@@ -21,7 +21,7 @@ Vdrias World! 在 2020 国庆期间将举行活动，目前已定的活动如下
 <summary>Vdrias Design</summary>
   ### Vdrias Design —— 第三周目 国庆 生存建筑大赛
   
-  ![Vdrias Design](activity-design.png)
+  ![Vdrias Design](https://cdn.jsdelivr.net/gh/vdriasworld/manual/activity-design.png)
   
   - 原则上，每位参赛选手应在比赛前通过群投票报名。比赛内容为纯生存建筑。
   
