@@ -9,7 +9,11 @@
 + 一个 [Donator+] 的头衔
 + `/nick` 指令的使用权
 
-[点击此处到爱发电捐助我们](https://afdian.net/@Mashirl)
+::: warning
+
+因为Mashirl没有时间管理爱发电帐号，因此用于接收捐助的爱发电帐号已经停用。
+
+:::
 
 ::: tip
 
