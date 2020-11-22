@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/vdriasworld/manual#readme",
   "dependencies": {
-    "vuepress": "^1.5.2"
+    "vuepress": "^1.7.1"
   }
 }
