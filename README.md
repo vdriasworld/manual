@@ -2,6 +2,12 @@
 
 *Vdrias World!* 是一个 Minecraft Java 版生存服务器 ~
 
+::: tip
+
+第四周目正在公开测试中
+
+:::
+
 - 版本： `1.17.1`
 - 地址：`s4.vdrias.cn`
 
