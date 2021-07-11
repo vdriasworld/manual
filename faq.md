@@ -2,11 +2,9 @@
 
 [[toc]]
 
-::: tip
+::: tip 关于 LittleSkin 的常见问题解答
 
-关于 LittleSkin 的常见问题解答，请参考
-
-[常见问题解答 | LittleSkin 用户使用手册](https://manual.littlesk.in/faq.html)
+请参考 [常见问题解答 | LittleSkin 用户使用手册](https://manual.littlesk.in/faq.html)
 
 :::
 
