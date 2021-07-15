@@ -9,7 +9,9 @@
 :::
 
 - 版本： `1.17.1`
-- 地址：`s4.vdrias.cn`
+- 地址：`play.vdrias.cn / s4.vdrias.cn`
+
+<iframe style="width:728px;height:90px;max-width:100%;border:none;display:block;margin:auto" src="https://namemc.com/server/play.vdrias.cn/embed" width="728" height="90"></iframe>
 
 ---
 

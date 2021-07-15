@@ -6,7 +6,7 @@
 
 ```
 名称：  Vdrias World!
-地址：  s4.vdrias.cn
+地址：  play.vdrias.cn / s4.vdrias.cn
 ```
 
 目前，服务器运行于服主 Xiao_Jin 家中的笔记本电脑上，接入了由 `China Unicom Shanghai network` 提供的家庭宽带（`AS17621`）。域名中的 `s4` 为 `Season 4` 的缩写。
