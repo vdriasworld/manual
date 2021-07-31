@@ -19,7 +19,7 @@
 
 ### 主城
 主城被分为 4 个部分，为方便区分，我们在地上和城门上都用羊毛做了标记。我们~~使用画图~~制作了简易的示意图以方便讲解。
-![主城俯瞰示意图](./images/vw-lobby.png)
+![主城俯瞰示意图](https://cdn.jsdelivr.net/gh/vdriasworld/manual/images/vw-lobby.png)
 
 ## 建造家园
 
