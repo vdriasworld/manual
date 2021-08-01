@@ -15,7 +15,7 @@ module.exports = {
     sidebar: [
       ['/', '欢迎'],
       ['/get-started','新手上路'],
-      ['/rules', '规则'],
+      ['/rules', '游玩准则'],
       [`/command`, `指令及插件`],
       ['/faq', '常见问题'],
       ['/donate', '捐助'],
