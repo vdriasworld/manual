@@ -20,6 +20,9 @@ module.exports = {
       ['/faq', '常见问题'],
       ['/donate', '捐助'],
     ],
+    nav: [
+      { text: '捐助支持', link: '/donate' }
+    ],
     smoothScroll: true,
     lastUpdated: '上次更新于',
   },
