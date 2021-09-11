@@ -2,7 +2,7 @@
 
 ## 使用外置登录
 
-Vdrias World 使用 [LittleSkin](https://littlesk.in) 提供的 Yggdrasil API 验证服务进行验证，您可以参考 [在客户端使用 - Yggdrasil | LittleSkin 用户使用手册]([Yggdrasil | LittleSkin 用户使用手册](https://manual.littlesk.in/advanced/yggdrasil.html#在服务端使用)) 添加和使用 LittleSkin 的 Yggdrasil API 加入服务器。
+Vdrias World 使用 [LittleSkin](https://littlesk.in) 提供的 Yggdrasil API 验证服务进行验证，您可以参考 [在客户端使用 - Yggdrasil | LittleSkin 用户使用手册]([Yggdrasil | LittleSkin 用户使用手册](https://manual.littlesk.in/advanced/yggdrasil.html#在服务端使用)) 添加并使用 LittleSkin 的 Yggdrasil API 加入服务器。
 
 ## 添加服务器
 
