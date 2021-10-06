@@ -15,8 +15,6 @@ Vdrias World 使用 [LittleSkin](https://littlesk.in) 提供的 Yggdrasil API �
 地址：  play.vdrias.cn / s4.vdrias.cn
 ```
 
-目前，服务器运行于服主 Xiao_Jin 家中的笔记本电脑上，接入了由 `China Unicom Shanghai network` 提供的家庭宽带（`AS17621`）。域名中的 `s4` 为 `Season 4` 的缩写。
-
 ## 认识这个世界
 
 在正式游戏开始之前，别忘了阅读 [游玩准则](/rules)，每一个加入服务器游玩的玩家都有义务遵守游玩准则。
