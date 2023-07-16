@@ -4,16 +4,22 @@
 
 ::: tip 新周目！
 
-自 2021/7/2 以来，服务器内的众多玩家和设计师均参与到了新周目的建设当中。第四周目是新服主 Xiao_Jin 接手后从零开始的周目，在玩法上作出了一定的调整。目前，第四周目正处在公开测试阶段。
+2023年6月，原服主Mashirl重新接手Vdrias World服务器，目前正处于 **第五周目** 的**公开测试**阶段，因此可能会有不稳定的地方，请随时反馈。
 
 :::
 
-- 版本： `1.17.1`
-- 地址：`play.vdrias.cn / s4.vdrias.cn`
+- 版本： `1.20.1`
+- 地址：`play.vdrias.cn`
 
 <iframe style="width:728px;height:90px;max-width:100%;border:none;display:block;margin:auto" src="https://namemc.com/server/play.vdrias.cn/embed" width="728" height="90"></iframe>
 
 ---
+
+:: tip
+
+因为服务器使用自助添加的白名单制度，和正版登录与外置登录共存的验证方式，您必须点击下面的链接，了解如何加入服务器
+
+:::
 
 👉 [立即了解如何加入服务器](/get-started#加入)  👈
 
