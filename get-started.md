@@ -10,6 +10,12 @@ QQ群号：208791171
 
 如果您是正版用户，在申请白名单之后，则可以直接进入服务器，而无需额外操作。
 
+::: tip 自主申请白名单
+
+在群内发送 `申请白名单+游戏ID` （中间不要加任何空格）即可自助申请白名单
+
+:::
+
 如果您是外置登录用户，请在 [LittleSkin](https://littleskin.cn) 注册后，请参阅 [Yggdrasil#在客户端使用 | LittleSkin 用户使用手册](https://manual.littlesk.in/advanced/yggdrasil.html#在客户端使用) 配置外置登录
 
 在多人游戏中添加我们的服务器
