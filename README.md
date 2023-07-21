@@ -10,6 +10,7 @@
 
 - 版本： `1.20.1`
 - 地址：`play.vdrias.cn`
+- 卫星地图：[http://play.vdrias.cn:8100](http://play.vdrias.cn:8100)
 
 <iframe style="width:728px;height:90px;max-width:100%;border:none;display:block;margin:auto" src="https://namemc.com/server/play.vdrias.cn/embed" width="728" height="90"></iframe>
 
