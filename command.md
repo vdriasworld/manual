@@ -4,6 +4,20 @@
 
 在浏览器打开 [https://play.vdrias.cn:8100](https://play.vdrias.cn:8100) 即可
 
+## 传送到传送点
+
+在服务器内，你可以使用`/warp <传送点名称>`的指令传送到已有的传送点
+
+目前服务器有以下几个传送点（及传送指令）：
+
+- 资源世界 `/warp mine`
+
+- 末地 `/warp end`
+
+- 下界 `/warp nether`
+
+- 小黑塔 (末地) `/warp xiaoheita`
+
 ## 传送
 
 `/spawn` 回到出生点
