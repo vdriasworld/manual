@@ -15,7 +15,6 @@
 您可以尝试重启游戏或重新登录 LittleSkin 账号，这往往是 token 过期或无法正常连接 LittleSkin 验证服务器所致，如果重启游戏或重新登录 LittleSkin 账号无法解决，您可以尝试下面几种方法。
 
 - 检查 LittleSkin 验证服务的可用性
-- 确认您使用的 LittleSkin 域名是 `littlesk.in`
 - 重启光猫 / 路由器
 - 清除 DNS 缓存
 
