@@ -79,6 +79,14 @@ https://wiki.mcmmo.org/installation
 
 `/slime` 显示所在区块是否为 史莱姆区块，并显示区块实体数量
 
-## 日志查询
+## 核心保护 (CoreProtect)
+
+> CoreProtect 是一个快速高效的数据记录和防止破坏的工具。可以回滚和还原任意数量的损坏。专为大型服务器设计，CoreProtect 可以在不影响服务器性能的情况下记录和管理数据。
+> 
+> CoreProtect 是最受欢迎的防破坏插件之一，自 2012 年初以来一直在积极开发中。
+
+**官方文档：**
+
+https://www.spigotmc.org/resources/coreprotect.8631/
 
 输入`/co i`可以左键点击方块、右键点击箱子查询日志（例如：谁放进去/拿走箱子里的什么东西，谁放置/破坏了什么方块），再次输入`/co i`退出
