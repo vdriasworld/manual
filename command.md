@@ -44,17 +44,11 @@
 
 ## mcMMO
 
-::: warning
+**官方文档：**
 
-此部分还**有待完善**
+https://www.spigotmc.org/resources/official-mcmmo-original-author-returns.64348/
 
-:::
-
-mcMMO 是一款可以使玩家练级并开发特殊技能，得到稀有物品的插件，您在服务器里经常看见的技能等级就是由它实现的。
-
-下面是有关它的一些指令
-
-`/stats` 查看技能等级
+https://wiki.mcmmo.org/installation
 
 ## 粘液科技
 
