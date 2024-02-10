@@ -10,5 +10,10 @@
     "@nolebase/vitepress-plugin-enhanced-readabilities": "^1.21.0",
     "@nolebase/vitepress-plugin-highlight-targeted-heading": "^1.21.0",
     "vitepress": "^1.0.0-rc.42"
+  },
+  "dependencies": {
+    "cjs": "^0.0.11",
+    "helpers": "^0.0.6",
+    "rollup": "^4.10.0"
   }
 }
