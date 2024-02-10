@@ -3,12 +3,12 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Vdrias World Manual",
-  description: "Player manual for Vdrias World players",
+  description: "Vdrias World 玩家指南",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+
     ],
 
     sidebar: [
