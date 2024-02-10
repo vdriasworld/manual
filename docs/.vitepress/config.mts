@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Vdrias World Manual",
+  title: "Vdrias World 游玩指南",
   description: "Vdrias World 玩家指南",
   locales: {
     root: {
@@ -13,7 +13,7 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
+      { text: '捐助我们', link: '/donate' },
 
     ],
 
@@ -77,7 +77,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/vdriasworld/manual' }
     ]
   }
 })
