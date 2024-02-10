@@ -4,6 +4,17 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Vdrias World 游玩指南",
   description: "Vdrias World 玩家指南",
+
+
+  lastUpdated: true,
+  sitemap: {
+    hostname: 'https://manual.vdrias.cn'
+  },
+
+  lang: 'zh',
+  appearance: true,
+
+
   locales: {
     root: {
       label: '中文',
