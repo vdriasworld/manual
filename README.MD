@@ -20,7 +20,7 @@
 
 要构建 VdriasWorld Documentation，按照以下步骤进行操作：
 
-1. 进入项目目录：`cd my-project`
+1. 进入项目目录：`cd manual-vitepress`
 2. 安装：`npm install`
 3. 启动开发服务器：`npm run dev`
 4. 打开浏览器并访问 `http://localhost:5173` 查看。
