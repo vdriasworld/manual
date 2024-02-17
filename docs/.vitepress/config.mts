@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Vdrias World 游玩指南",
   description: "Vdrias World 玩家指南",
-
+  cleanUrls: true,
 
   lastUpdated: true,
   sitemap: {
@@ -75,12 +75,24 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
+        text: '目录',
         items: [
-          { text: '欢迎', link: '/' },
-          { text: '新手上路', link: '/get-started' },
+          { text: '开始', items:[
+            {
+              text: '欢迎',
+              link: '/index'
+            },
+            {
+              text: '新手上路',
+              link: '/get-started'
+            },
+            {
+              text: '指令及插件',
+              link: '/command'
+            }
+          ] 
+        },
           { text: '游玩准则', link: '/rules' },
-          { text: '指令及插件', link: '/command' },
           { text: '常见问题', link: '/faq' },
           { text: '捐助', link: '/donate' },
         ]

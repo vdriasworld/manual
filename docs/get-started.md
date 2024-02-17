@@ -20,10 +20,9 @@ QQ群号：208791171
 
 在多人游戏中添加我们的服务器
 
-```
-名称：  Vdrias World!
-地址：  play.vdrias.cn
-```
+>名称：  Vdrias World!
+>
+>地址：  `play.vdrias.cn`
 
 ## 认识这个世界
 
