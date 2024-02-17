@@ -2,14 +2,6 @@
 
 欢迎来到 VdriasWorld 游玩指南文档！本仓库包含了由 Vitepress 构建的 VdriasWorld 游玩指南的官方文档。
 
-## 目录
-
-- [VdriasWorld 游玩指南文档](#vdriasworld-游玩指南文档)
-  - [目录](#目录)
-  - [介绍](#介绍)
-  - [贡献](#贡献)
-  - [许可证](#许可证)
-
 ## 介绍
 
 在这个文档中，您可以找到关于 VdriasWorld 游玩指南的所有必要信息。它涵盖了如何~~撅服主~~游玩VdriasWorld及相关守则等内容。
