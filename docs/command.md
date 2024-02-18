@@ -1,4 +1,12 @@
 # 指令及插件
+- [指令及插件](#指令及插件)
+  - [网页地图](#网页地图)
+  - [传送到传送点](#传送到传送点)
+  - [传送](#传送)
+  - [mcMMO](#mcmmo)
+  - [粘液科技](#粘液科技)
+  - [查询所在区块是否为史莱姆区块](#查询所在区块是否为史莱姆区块)
+  - [核心保护 (CoreProtect)](#核心保护-coreprotect)
 
 ## 网页地图
 
@@ -48,11 +56,11 @@
 
 https://www.spigotmc.org/resources/official-mcmmo-original-author-returns.64348/
 
-https://wiki.mcmmo.org/installation
+https://wiki.mcmmo.org/en/skills
 
 ## 粘液科技
 
-::: warning 主世界部分禁止物品无法在 指南 中显示
+::: danger 主世界部分禁止物品无法在 指南 中显示
 
 我们在主世界禁止了部分具有破坏性的物品，但它们在其它世界是可用的。
 
