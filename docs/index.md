@@ -25,6 +25,6 @@ features:
     details: 拥有长达11年历史的 Slimefun 让每个玩家都能自行决定他们对魔法或技术的游玩方式。从魔法棒到核反应堆，应有尽有。拥有魔法祭坛、电网甚至物品运输系统。
   - icon: 🏗
     title: 生电
-    details: 你在 Vdrias World 甚至可以玩到生电内容，只要不炸服，服主都会十分支持并<a href="/donate">将他的电费贡献出来</a>
+    details: 你在 Vdrias World 甚至可以玩到生电内容，只要不炸服，服主都会十分支持并将他的<a href="/donate">电费</a>贡献出来
 ---
 
