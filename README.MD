@@ -1,4 +1,4 @@
-# VdriasWorld 游玩指南文档 编辑与开发指南
+# Vdrias World 游玩指南文档 编辑与开发指南
 
 欢迎来到 Vdrias World 游玩指南文档！本仓库包含了由 [VitePress](https://vitepress.dev/) 构建的 Vdrias World 游玩指南的官方文档。
 
