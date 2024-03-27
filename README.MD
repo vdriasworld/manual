@@ -14,10 +14,11 @@
 
 要构建 Vdrias World Manual，按照以下步骤进行操作：
 
-1. 进入项目目录：`cd manual-vitepress`
-2. 安装：`npm install`
-3. 启动开发服务器：`npm run docs:dev`
-4. 打开浏览器并访问 `http://localhost:5173` 查看。
+1. 从 GitHub 克隆本项目：`git clone https://github.com/vdriasworld/manual.git vdriasworld-manual`
+2. 进入项目目录：`cd vdriasworld-manual`
+3. 安装：`npm install`
+4. 启动开发服务器：`npm run docs:dev`
+5. 打开浏览器并访问 `http://localhost:5173` 查看。
 
 ## 许可证
 
