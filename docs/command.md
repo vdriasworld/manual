@@ -6,7 +6,21 @@
 
 在浏览器打开 [https://play.vdrias.cn:8100](https://play.vdrias.cn:8100) 即可
 
-## 传送到传送点
+## Essentials 相关
+
+::: tip
+
+下面的功能是使用 EssentialsX 及其附属插件实现的，可查阅 EssentialsX 的官方文档以获得更多信息。
+
+相关链接如下：
+
+- [官方网站](https://essentialsx.net/) 
+
+- [EssentialsX Info - Commands](https://essinfo.xeya.me/commands.html)
+
+:::
+
+### 传送到传送点
 
 在服务器内，你可以使用`/warp <传送点名称>`的指令传送到已有的传送点
 
@@ -20,7 +34,7 @@
 
 - 小黑塔 (末地) `/warp xiaoheita`
 
-## 传送
+### 传送
 
 `/spawn` 回到出生点
 
@@ -46,11 +60,7 @@
 
 ## mcMMO
 
-**官方文档：**
-
-https://www.spigotmc.org/resources/official-mcmmo-original-author-returns.64348/
-
-https://wiki.mcmmo.org/en/skills
+**官方文档：**[SpigotMC](https://www.spigotmc.org/resources/official-mcmmo-original-author-returns.64348/) [mcMMO Wiki](https://wiki.mcmmo.org/en/skills)
 
 ## 粘液科技
 
