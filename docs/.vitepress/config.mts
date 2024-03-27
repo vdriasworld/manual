@@ -27,6 +27,8 @@ export default defineConfig({
       { text: '捐助我们', link: '/donate' },
 
     ],
+    
+    logo: '/favicon.ico',
 
     docFooter: {
       prev: '上一页',
