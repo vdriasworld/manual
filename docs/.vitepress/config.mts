@@ -1,7 +1,8 @@
 import { defineConfig } from 'vitepress'
+import defineVersionedConfig from 'vitepress-versioning-plugin'
 
 // https://vitepress.dev/reference/site-config
-export default defineConfig({
+export default defineVersionedConfig(__dirname, {
   title: "Vdrias World 游玩指南",
   description: "Vdrias World 玩家指南",
   cleanUrls: true,
@@ -13,7 +14,14 @@ export default defineConfig({
 
   lang: 'zh',
   appearance: true,
-
+  
+  versioning: {
+    latestVersion: "/",
+    switcher: {
+      text: "切换文档",
+    }
+    
+  },
 
   locales: {
     root: {
@@ -106,3 +114,10 @@ export default defineConfig({
     ]
   }
 })
+
+// Configure vitepress-versioning-plugin
+
+// export default defineVersionedConfig(__dirname, {
+//   // ... your vitepress config.
+
+// });
