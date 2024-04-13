@@ -14,7 +14,7 @@ hero:
       link: /welcome
     - theme: alt
       text: 在GitHub上查看
-      link: https://github.com/vuejs/vitepress
+      link: https://github.com/vdriasworld/manual
 
 features:
   - icon: 🤺
