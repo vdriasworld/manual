@@ -1,6 +1,6 @@
 # 欢迎来到 Vdrias World! <Badge type="tip" text="5th" />
 
-*Vdrias World!* 是一个相对纯净的 Minecraft Java 版生存服务器 ~ 
+*Vdrias World!* 是一个相对纯净的 Minecraft Java 版生存服务器 ~
 
 ::: tip 新周目！
 

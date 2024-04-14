@@ -14,7 +14,7 @@
 
 相关链接如下：
 
-- [官方网站](https://essentialsx.net/) 
+- [官方网站](https://essentialsx.net/)
 
 - [EssentialsX Info - Commands](https://essinfo.xeya.me/commands.html)
 
@@ -94,7 +94,7 @@
 ## 核心保护 (CoreProtect)
 
 > CoreProtect 是一个快速高效的数据记录和防止破坏的工具。可以回滚和还原任意数量的损坏。专为大型服务器设计，CoreProtect 可以在不影响服务器性能的情况下记录和管理数据。
-> 
+>
 > CoreProtect 是最受欢迎的防破坏插件之一，自 2012 年初以来一直在积极开发中。
 
 **官方文档：**
