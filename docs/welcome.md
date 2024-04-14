@@ -12,8 +12,6 @@
 - 地址：`play.vdrias.cn`
 - 卫星地图：[http://play.vdrias.cn:8100](http://play.vdrias.cn:8100)
 
-
-
 ::: info TIP
 
 因为服务器使用自助添加的白名单制度，和正版登录与外置登录共存的验证方式，您必须点击此处了解如何加入服务器：
@@ -51,7 +49,6 @@ QQ 群：[`208791171`](https://jq.qq.com/?_wv=1027&k=aXIUvT35)
 [点击此处了解如何捐助我们](/donate)
 
 **准备好了的话，就请往下看吧 ~。使用左侧的侧边栏导航，或点击页脚的导航链接继续阅读**
-
 
 ::: tip 许可协议
 本文档中的所有内容，除非特别说明，均以 [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.zh) 授权使用。在引用此本文档中的内容时，请注意遵守许可协议。
