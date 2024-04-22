@@ -21,8 +21,6 @@
 
 <!-- 👉 [立即了解如何加入服务器](/get-started#加入)  👈 -->
 
-<iframe style="width:728px;height:90px;max-width:100%;border:none;display:block;margin:auto" src="https://namemc.com/server/play.vdrias.cn/embed" width="728" height="90"></iframe>
-
 ## 交流群
 
 ::: warning 注意
