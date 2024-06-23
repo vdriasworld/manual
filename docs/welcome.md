@@ -2,13 +2,13 @@
 
 *Vdrias World!* 是一个相对纯净的 Minecraft Java 版生存服务器 ~
 
-::: tip 新周目！
+::: warning
 
-2023年6月，原服主Mashirl重新接手Vdrias World服务器，目前正处于 **第五周目** 阶段，如有问题，请随时反馈。
+服务器旧周目已关闭，新周目正在进行封闭测试，暂未开放
 
 :::
 
-- 版本： `1.20.1`
+- 版本： `1.21`
 - 地址：`play.vdrias.cn`
 - 卫星地图：[http://play.vdrias.cn:8100](http://play.vdrias.cn:8100)
 
