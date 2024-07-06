@@ -4,7 +4,7 @@ layout: home
 hero:
   name: Vdrias World
   text: 
-  tagline: "一个可以和服主一起打胶的 Minecraft 服务器 (柠檬写的)"
+  tagline: "一个不知道开了多久但还活着的 Minecraft 服务器"
   image:
     src: /banner.png
     alt: VdriasWorld
@@ -13,7 +13,7 @@ hero:
       text: 快速开始
       link: /welcome
     - theme: alt
-      text: 在GitHub上查看
+      text: 在Github上看看我们是怎么写的
       link: https://github.com/vdriasworld/manual
 
 features:
