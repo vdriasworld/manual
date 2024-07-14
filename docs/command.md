@@ -16,7 +16,9 @@
 
 Ledger 是一个功能类似于 CoreProtect 的 Fabric 模组。通过使用这一模组，我们可以实现查询方块变更记录的功能。
 
-`/ledger inspect` 开启查询功能
+命令为：`/ledger` 可简写为 `/lg`
+
+`/ledger inspect` / `/lg i` 开启/关闭查询功能
 
 ## ~~深度交流（？）~~
 
