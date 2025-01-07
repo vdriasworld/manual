@@ -4,7 +4,7 @@
 
 ## 网页地图
 
-在浏览器打开 [https://play.vdrias.cn:8100](https://play.vdrias.cn:8100) 即可
+在浏览器打开 [http://play.vdrias.cn:8100](https://play.vdrias.cn:8100) 即可
 
 ::: warning 
 

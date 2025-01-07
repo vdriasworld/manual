@@ -14,7 +14,7 @@
 
 你可以通过直接在爱发电上捐款支持服务器的运营。
 
-[爱发电捐助链接](https://afdian.net/@Mashirl)
+[爱发电捐助链接](https://afdian.com/@Mashirl)
 
 ## 哔哩哔哩充电
 

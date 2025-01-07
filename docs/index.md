@@ -13,16 +13,19 @@ hero:
       text: 快速开始
       link: /welcome
     - theme: alt
-      text: 在Github上看看我们是怎么写的
+      text: BlueMap 网页地图
+      link: http://play.vdrias.cn:8100
+    - theme: alt
+      text: 捐助我们
+      link: /donate
+    - theme: alt
+      text: 在Github上查看本文档
       link: https://github.com/vdriasworld/manual
 
 features:
   - icon: 🤺
-    title: 打胶
+    title: 打胶（现在无了）
     details: 能够通过快速按下Shift和服主愉快的激情互动
-  - icon: 🦄
-    title: 粘液科技
-    details: 拥有长达11年历史的 Slimefun 让每个玩家都能自行决定他们对魔法或技术的游玩方式。从魔法棒到核反应堆，应有尽有。拥有魔法祭坛、电网甚至物品运输系统。
   - icon: 🏗
     title: 生电
     details: 你在 Vdrias World 甚至可以玩到生电内容，只要不炸服，服主都会十分支持并将他的<a href="/donate">电费</a>贡献出来
