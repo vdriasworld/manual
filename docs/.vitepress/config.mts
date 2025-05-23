@@ -98,10 +98,6 @@ export default defineConfig({
         items: [
           { text: '开始', items:[
             {
-              text: '欢迎',
-              link: '/index'
-            },
-            {
               text: '新手上路',
               link: '/get-started'
             },
