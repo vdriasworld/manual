@@ -14,7 +14,7 @@
 - 地址：`play.vdrias.cn`
 - 卫星地图：[http://play.vdrias.cn:8100](http://play.vdrias.cn:8100)
 
-::: info TIP
+::: tip
 
 因为服务器实行白名单制度，和正版登录与外置登录共存的验证方式，您必须点击此处了解如何加入服务器：
 <a href="/get-started" style="display: inline-block; padding: 10px; background-color: #5468ff; border-radius: 100px; font-size: 13px; color: white; text-decoration: none;">立即了解如何加入服务器</a>
@@ -23,18 +23,11 @@
 
 <!-- 👉 [立即了解如何加入服务器](/get-started#加入)  👈 -->
 
-## 交流群
-
-入群后你必须遵守群规，群规可能因时期的变化而做出调整，具体群规以群置顶公告为准。
-在你遇到问题需要提问时，烦请您带着脑子。在必要时，请务必附带上截图和详细描述。
-
-QQ 群：[`208791171`](https://jq.qq.com/?_wv=1027&k=aXIUvT35)
-
 ## 模组服！
 
 ::: warning 注意
 
-相关内容与页面还在编写中，有关信息请[进群](#交流群)了解
+相关内容与页面还在编写中，有关信息请[进群](/get-started#申请加入qq群)了解
 
 :::
 
