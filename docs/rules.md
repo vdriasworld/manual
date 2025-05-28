@@ -40,7 +40,7 @@ Vdrias World是一个Minecraft服务器，下列简称我服、服务器或VW。
 
 - 在无特别允许的情况下破坏他人建筑 / 作品行为
 
-- 使用作弊软件的行为 **包括但不限于 Ghost Client, Mod Inject Client, XRay Resource Pack 等内容**
+- 使用破坏游戏公平的作弊软件的行为 **包括但不限于 Ghost Client, Mod Inject Client, XRay Resource Pack 等内容**
 
 - 对服务器进行物理或网络攻击的行为 **包括但不限于 DDOS, DOS, 假人攻击, MOTD攻击 等手段**
 

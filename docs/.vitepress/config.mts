@@ -99,7 +99,7 @@ export default defineConfig({
           { text: '开始', items:[
             {
               text: '欢迎',
-              link: '/index'
+              link: '/welcome'
             },
             {
               text: '新手上路',
