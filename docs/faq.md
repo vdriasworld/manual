@@ -1,7 +1,5 @@
 # 常见问题
 
-[[toc]]
-
 ::: tip 关于 LittleSkin 的常见问题解答
 
 若是 登录 / 启动器账号 问题，烦各玩家前往 [常见问题解答 | LittleSkin 用户使用手册](https://manual.littlesk.in/faq.html) 自行查阅问题。
