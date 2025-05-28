@@ -2,24 +2,14 @@
 
 *Vdrias World!* 是一个相对纯净的 Minecraft Java 版生存服务器 ~
 
-::: warning
-
-服务器新周目已经开始公开不删档测试，请加入玩家群以申请白名单。
-
-新周目采取生电为主的玩法，移除了所有传送类插件辅助，使用原版服务端以最大限度保证原版的红石特性。
-
-:::
+本周目采取生电为主的玩法，移除了所有传送类插件辅助，使用原版服务端以最大限度保证原版的红石特性。
 
 - 版本： `1.21`
 - 地址：`play.vdrias.cn`
 - 卫星地图：[http://play.vdrias.cn:8100](http://play.vdrias.cn:8100)
 
-::: tip
-
 因为服务器实行白名单制度，和正版登录与外置登录共存的验证方式，您必须点击此处了解如何加入服务器：
 <a href="/get-started" style="display: inline-block; padding: 10px; background-color: #5468ff; border-radius: 100px; font-size: 13px; color: white; text-decoration: none;">立即了解如何加入服务器</a>
-
-::: 
 
 <!-- 👉 [立即了解如何加入服务器](/get-started#加入)  👈 -->
 
