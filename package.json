@@ -9,7 +9,7 @@
     "@fortawesome/vue-fontawesome": "^3.0.6",
     "@nolebase/vitepress-plugin-enhanced-readabilities": "^2.17.1",
     "@nolebase/vitepress-plugin-highlight-targeted-heading": "^2.18.0",
-    "vitepress": "^1.6.3"
+    "vitepress": "^1.6.4"
   },
   "dependencies": {
     "cjs": "^0.0.11",
